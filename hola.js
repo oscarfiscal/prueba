@@ -1,3 +1,4 @@
 var hola= 2*2;
 console.log(hola)
-khgig
+
+//vas aprendiendo git hub, muy bien 
